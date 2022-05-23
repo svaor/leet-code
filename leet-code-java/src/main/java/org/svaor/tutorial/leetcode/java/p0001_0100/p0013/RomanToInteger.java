@@ -1,4 +1,4 @@
-package org.svaor.tutorial.leetcode.java.p13;
+package org.svaor.tutorial.leetcode.java.p0001_0100.p0013;
 
 import java.util.*;
 
